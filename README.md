@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Samarah, a doctorate in Molecular Biology with a passion and curiosity for data and data driven decision making. Working on acquiring and polishing my data analytic skills. 
-- 🔭 I’m currently working on my career transition equipped with transferable analytical skills.
+I am Samarah with a passion and curiosity for data and data driven decision making. Working on acquiring and polishing my data analytic skills. 
 - :dart: **Accomplishments:**: Google Data Analytics Certification 
 - :wrench: **Skill sets**: Spreadsheets, SQL, BigQuery, R programming, tableau
 - :bar_chart: **Data project**:  [**R Programming:** A Case Study for Bellabeat Fitness Data analysis](https://github.com/Samarah90/Google_DataAnalytics_BellaBeat_CaseStudy/tree/main)
